@@ -1,7 +1,5 @@
 # Episode 1 - Scripts to Recipes (Tomcat on CentOS 7)
 
-## Details
-
 Air Date: March 18, 2016 10AM PDT
 
 Converting the application installation and configuration instructions into tested recipes. In this episode we initially install Tomcat onto CentOS 7.
