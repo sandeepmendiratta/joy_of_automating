@@ -14,6 +14,8 @@ In this episode we focus on taking the manual installation instructions found in
 
 * [How to Install The Django Web Framework](https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-14-04)
 
+This is the code that was completed during the exercise: https://github.com/chef-training/django
+
 ### Further Activities
 
 After completing the initial activity we encourage you to challenge yourselves with the following activities.
