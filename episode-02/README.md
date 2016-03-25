@@ -2,7 +2,8 @@
 
 Air Date: March 25, 2016 10AM PDT
 
-Converting the application installation and configuration instructions into tested recipes. In this episode we write recipes to install Django in multiple different ways.
+In this episode we focused on converting the installation of Django into tested recipes. We explored installing Django from multiple sources: packages; pip; and through virtualenv. Which lead us into writing integration tests and unit tests for the various recipes, defining multiple test kitchen suites, and git branch workflow. Near the end we started to define a custom resource within the cookbook to handle our requests to install packages through pip.
+
 
 * Recording - https://www.youtube.com/user/getchef/live
 
