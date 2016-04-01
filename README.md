@@ -19,5 +19,15 @@ Air Date: March 25, 2016 10AM PDT
 
 In this episode we focused on converting the installation of Django into tested recipes. We explored installing Django from multiple sources: packages; pip; and through virtualenv. Which lead us into writing integration tests and unit tests for the various recipes, defining multiple test kitchen suites, and git branch workflow. Near the end we started to define a custom resource within the cookbook to handle our requests to install packages through pip.
 
-* [Live Show](https://www.youtube.com/watch?v=vEfMLejGhS4&list=PL11cZfNdwNyORJfIYA8t07PRMchyDXIjq&index=2)
+* [Recording](https://www.youtube.com/watch?v=vEfMLejGhS4)
 * [Resources](episode-02/README.md#Resources)
+
+
+### Episode 3 - Working with Legacy Code (Redis)
+
+Air Date: April 1, 2016 10AM PDT
+
+In this episode we focused on understanding, testing, and refactoring an existing cookbook.
+
+* [Recording](https://www.youtube.com/user/getchef/live)
+* [Resources](episode-03/README.md#Resources)
