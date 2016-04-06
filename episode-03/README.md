@@ -4,7 +4,7 @@ Air Date: April 1, 2016 10AM PDT
 
 In this episode we focused on understanding, testing, and refactoring an existing cookbook.
 
-* [Recording](https://www.youtube.com/user/getchef/live)
+* [Recording](https://www.youtube.com/watch?v=Td1MMyvwaF8)
 
 ## Resources
 
